@@ -7,5 +7,5 @@ This data comes from a Kaggle dataset, it includes the census data for all count
 
 ## Summary of Findings
 1. To answer question number one, I used a scatter plot and discovered that there is a negative correlation between the poverty rate and the percentage of professionals in a state. The higher the poverty rate, the lower the percentage of professionals there is in a state. 
-2. Using a horizontal bar graph with the ability to gain more insights when hoverying over each bar, the top states with the highest Asian American population are Hawaii (36.75%), California (13.52%), New Jersey (9%), New York (7.92%), and Washington (7.6%).
+2. Using a horizontal bar graph with the ability to gain more insights when hovering over each bar, the top states with the highest Asian American population are Hawaii (36.75%), California (13.52%), New Jersey (9%), New York (7.92%), and Washington (7.6%).
 3. With the stacked bars to show the proportion different job categories and a map with the ability to specify by state and county, the dashboard allows for a quick visual and reference to which types and where the jobs are in the country. 
